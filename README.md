@@ -1,7 +1,6 @@
 # LiveSplit.ASLScripts
 ASL scripts for LiveSplit.
 # Install
--------
 * Download the script and place it in a convenient folder.
 * Launch LiveSplit.
 * Edit layout and add Control -> Scriptable Auto Timier.
